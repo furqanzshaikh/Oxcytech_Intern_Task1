@@ -1,0 +1,28 @@
+@media screen and (max-width: 915px) {
+    img{
+        width: 30%;
+        height: 30%;
+    }
+    
+    h1{
+        font-size: 6vw;
+    }
+    p{
+        font-size: 2.4vw;
+    }
+    h2{
+        font-size: 3vw;
+        padding: 1vw;
+    }
+    th{
+        font-size: 2vw;
+    }
+    td{
+        font-size: 2vw;
+    }
+    li{
+        font-size: 2.2vw;
+        margin-top: 5px;
+    }
+  }
+  
